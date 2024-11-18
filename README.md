@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jack
 - 👀 I’m interested in: malware dev(for educational purposes only)
-- 🌱 I’m currently learning: python
+- 🌱 I’m currently learning: nothing
 - 📫 How to reach me: u can't
-- 😄 Pronouns: he/him
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: no fun facts
 
 <!---
